@@ -1,0 +1,33 @@
+---
+output:
+  html_document:
+    css: [
+      './css/columns.css','./css/main.css',
+      './assets/css/montserrat.css','./assets/css/catamaran.css']
+title: "Contact Us - SAIRC Inc."
+theme: readable
+---
+
+
+::: {.center style="display:flex;flex-direction:column;align-items:center"}
+
+::::{style="font-weight:900;font-family:'Catamaran', sans-serif; font-size: 35px;"}
+
+contact us
+
+::::
+
+<br />
+
+::::{style="width: 75%;text-align:center;font-family: 'Montserrat',sans-serif;font-size:25px"}
+
+Thank you for your interest in <accronym title="Soomro Agriculture Institute & Research Center"><span style="font-weight:bolder">sairc</span></accronym>! We are excited to speak with you. <br />
+
+------
+
+<a href="mailto:hello@sairc.ca">hello@sairc.ca</a>
+
+::::
+
+:::
+

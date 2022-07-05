@@ -1,0 +1,39 @@
+h1.title {
+  display: none;
+}
+
+.intro {
+  font-size: 45px;
+  font-family: "Raleway","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.vspacer-250 {
+  height: 250px !important;
+}
+
+.w-50 {
+  width: 50%;
+}
+
+.navbar {
+  background: none;
+  border: none;
+  position: absolute;
+}
+
+.navbar-nav {
+  padding-top: 10px;
+}
+
+.navbar-nav > li > a {
+    color: black !important;
+    size: 25px;
+    background-color: white !important;
+    
+}
+
+.navbar-nav > li > a:hover {
+    color: black !important;
+    size: 25px;
+    background-color: #d7e3c3 !important;
+}

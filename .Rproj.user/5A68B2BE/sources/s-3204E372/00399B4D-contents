@@ -1,0 +1,23 @@
+---
+output: 
+  html_document:
+    css: ['./css/main.css','./css/index.css']
+theme: readable
+title: "sairc inc."
+---
+
+:::{.main-content}
+
+<center class="intro">
+<img width="500" style="background-color:white;padding:15px;border-radius:15px" src="https://i.pinimg.com/originals/1b/a7/5c/1ba75cb382ec23040e102b4442738bd3.png" />
+
+::::{style="font-size: 60px; font-weight: 400; font-family: 'Montserrat', sans-serif; border-color: black"}
+
+We are expanding your fruit basket!
+
+::::
+
+</center>
+
+:::
+

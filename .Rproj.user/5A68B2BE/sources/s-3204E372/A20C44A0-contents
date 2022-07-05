@@ -1,0 +1,12 @@
+name: "SAIRC Inc."
+output_dir: 'docs'
+navbar:
+  title: "<span style='font-weight: bolder'>sairc</span>"
+  type: inverse
+  right:
+    - text: "contact"
+      href: './contact.html'
+output: 
+  html_document: 
+    theme: 'readable'
+    
